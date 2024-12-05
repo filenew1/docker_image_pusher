@@ -1,7 +1,2 @@
-langgenius/dify-web:latest
-langgenius/dify-api:latest
-langgenius/dify-sandbox:latest
-ubuntu/squid:latest
-semitechnologies/weaviate:latest
-langgenius/qdrant:latest
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
+langgenius/dify-web:0.13.1
+langgenius/dify-api:0.13.1
