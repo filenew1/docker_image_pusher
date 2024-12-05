@@ -1,8 +1,3 @@
 dify-web
 #支持私库 dify-web
 langgenius/dify-api:0.13.1
-
-dify-api
-#支持私库 dify-api
-langgenius/dify-api:0.13.1
-
