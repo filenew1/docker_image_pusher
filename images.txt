@@ -1,12 +1,14 @@
 #dify-web的指定版本
-langgenius/dify-web:0.13.2
+#langgenius/dify-web:0.13.2
+
 #dify-web的最新版本
-langgenius/dify-web
+#langgenius/dify-web
+
 #dify-api的指定版本
-langgenius/dify-api:0.13.2
+#langgenius/dify-api:0.13.2
+
 #dify-api的最新版本
-langgenius/dify-api
+#langgenius/dify-api
 
-
-# 指定架构
---platform=linux/arm64
+# Nginx ARM架构
+nginx@sha256:746bca4640fce6b18814e47162c26da63f185a2b4a1bbc5fd137cbf9bc8293e8
