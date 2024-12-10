@@ -1,8 +1,6 @@
 #dify-web的指定版本
 langgenius/dify-web:0.13.2
-#dify-web的最新版本
-langgenius/dify-web
 #dify-api的指定版本
 langgenius/dify-api:0.13.2
-#dify-api的最新版本
-langgenius/dify-api
+#ARM 版的Nginx
+arm64v8/nginx
