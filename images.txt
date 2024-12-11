@@ -1,32 +1,32 @@
 #dify-web的指定版本
-#langgenius/dify-web:0.13.2
+langgenius/dify-web:0.13.2
 
 #dify-web的最新版本
 #langgenius/dify-web
 
 #dify-api的指定版本
-#langgenius/dify-api:0.13.2
+langgenius/dify-api:0.13.2
 
 #dify-api的最新版本
 #langgenius/dify-api
 
 # Nginx ARM架构
-#nginx@sha256:746bca4640fce6b18814e47162c26da63f185a2b4a1bbc5fd137cbf9bc8293e8
+nginx:1.27.3@sha256:6d3e464bc399ce5b0cd6a165162deb5926803c1c0ae8a1983ba0a1982b97a7a2
 
 # postgres  ARM架构
-#postgres:15-alpine@sha256:1fe722aee536e138d4c530d5dfb8055f12adbaefa552a208fe691ce70670546e
+postgres:15-alpine@sha256:fd06a38937ec80a9a4552df6bbda9009490766f1a1e21217fcdd4d9e5808b78d
 
 # dify-sandbox  ARM架构
-langgenius/dify-sandbox:0.2.10@sha256:6c69b6e379255d5865dd9ac25b588942dc4a7a5e8f57afcf736080414459e8dd
+langgenius/dify-sandbox:0.2.10@sha256:e6b15a704d4fe04b3c653e96af33ddfe902c5aa70595f48aec5d98df6e5d4ea6
 
 # redis  ARM架构
-#redis:6-alpine@sha256:eaba718fecd1196d88533de7ba49bf903ad33664a92debb24660a922ecd9cac8
+redis:6-alpine@sha256:2c574aacebfe72ba76d6a55bcde2609cf02a39f3291bd5914f81c0e48cb58464
 
 # squid  ARM架构
-#ubuntu/squid:latest@sha256:ae2609ccf37299a5ef588dee92634e6c217933adf2ebe1f12ef8a42eac33c34a
+ubuntu/squid:latest@sha256:7742b3349754401f47f7acbc58300e992d4110626157a85abf3ca0e014662fa2
 
 # weaviate  ARM架构
-#semitechnologies/weaviate:1.19.0@sha256:17a5238fcfc31d50427bb0e8338f01c3a0d62e27fbe3b6a9a6832b6e43b638bf
+semitechnologies/weaviate:1.19.0@sha256:f011a3d8f7d2a271219d99029115668c5948b52456e5826f841e9907817df3f0
 
 # qdrant  ARM架构
-#qdrant/qdrant:v1.7.3@sha256:5bd665cb6e9ba3ecb3bc5a851226a6ca0b70b6165574482132edeb606f21d1a5
+qdrant/qdrant:v1.7.3@sha256:7b8cda98a391a812fbe1c8a1c6c03e7078f124e08bac6b45546659b5bff5129d
