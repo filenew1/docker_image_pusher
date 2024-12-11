@@ -14,19 +14,19 @@
 #nginx@sha256:746bca4640fce6b18814e47162c26da63f185a2b4a1bbc5fd137cbf9bc8293e8
 
 # postgres  ARM架构
-postgres:15-alpine@sha256:1fe722aee536e138d4c530d5dfb8055f12adbaefa552a208fe691ce70670546e
+#postgres:15-alpine@sha256:1fe722aee536e138d4c530d5dfb8055f12adbaefa552a208fe691ce70670546e
 
-# sandbox  ARM架构
-akamai/sandbox:v2.10.0@sha256:345dc9d242741ee1f84e9adde0e079f0d716ea453fe18506a4dc96e61b7f4f3c
+# dify-sandbox  ARM架构
+langgenius/dify-sandbox:0.2.10@sha256:6c69b6e379255d5865dd9ac25b588942dc4a7a5e8f57afcf736080414459e8dd
 
 # redis  ARM架构
-redis:6-alpine@sha256:eaba718fecd1196d88533de7ba49bf903ad33664a92debb24660a922ecd9cac8
+#redis:6-alpine@sha256:eaba718fecd1196d88533de7ba49bf903ad33664a92debb24660a922ecd9cac8
 
 # squid  ARM架构
-ubuntu/squid:latest@sha256:ae2609ccf37299a5ef588dee92634e6c217933adf2ebe1f12ef8a42eac33c34a
+#ubuntu/squid:latest@sha256:ae2609ccf37299a5ef588dee92634e6c217933adf2ebe1f12ef8a42eac33c34a
 
 # weaviate  ARM架构
-semitechnologies/weaviate:1.19.0@sha256:17a5238fcfc31d50427bb0e8338f01c3a0d62e27fbe3b6a9a6832b6e43b638bf
+#semitechnologies/weaviate:1.19.0@sha256:17a5238fcfc31d50427bb0e8338f01c3a0d62e27fbe3b6a9a6832b6e43b638bf
 
 # qdrant  ARM架构
-qdrant/qdrant:v1.7.3@sha256:5bd665cb6e9ba3ecb3bc5a851226a6ca0b70b6165574482132edeb606f21d1a5
+#qdrant/qdrant:v1.7.3@sha256:5bd665cb6e9ba3ecb3bc5a851226a6ca0b70b6165574482132edeb606f21d1a5
