@@ -1,17 +1,20 @@
 #dify-web的指定版本
-langgenius/dify-web:0.14.2
+# langgenius/dify-web:0.14.2
 
 #dify-api的指定版本
-langgenius/dify-api:0.14.2
+# langgenius/dify-api:0.14.2
 
 # elasticsearch
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+# docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 
 # minio
-quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+# quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 
 # mysql
-mysql:8.0.39
+# mysql:8.0.39
 
 # ragflow
-infiniflow/ragflow:v0.15.0
+# infiniflow/ragflow:v0.15.0
+
+# redis
+valkey/valkey:8
