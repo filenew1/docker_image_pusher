@@ -1,29 +1,33 @@
 #dify-web的指定版本
-langgenius/dify-web:0.14.2
+# langgenius/dify-web:0.14.2
 
 #dify-api的指定版本
-langgenius/dify-api:0.14.2
+# langgenius/dify-api:0.14.2
 
-# postgres
-postgres:15-alpine
+#postgres
+# postgres:15-alpine
 
-# redis
-redis:6-alpine
+#redis
+# redis:6-alpine
 
-# sandbox
-langgenius/dify-sandbox:0.2.10
+#sandbox
+# langgenius/dify-sandbox:0.2.10
 
-# nginx
-nginx:1.27.3
+#nginx
+# nginx:1.27.3
 
-# weaviate
-semitechnologies/weaviate:1.19.0
+#weaviate
+# semitechnologies/weaviate:1.19.0
 
-# qdrant
-langgenius/qdrant:v1.7.3
+#qdrant
+# langgenius/qdrant:v1.7.3
 
-# elasticsearch
-docker.elastic.co/elasticsearch/elasticsearch:8.14.3
+#elasticsearch
+# docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 
-# unstructured-api
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
+#unstructured-api
+# downloads.unstructured.io/unstructured-io/unstructured-api:latest
+
+#squid
+ubuntu/squid:latest
+
