@@ -1,8 +1,8 @@
 #dify-web的指定版本
-# langgenius/dify-web:0.15.0
+ langgenius/dify-web:0.15.1
 
 #dify-api的指定版本
-# langgenius/dify-api:0.15.0
+ langgenius/dify-api:0.15.1
 
 #postgres
 # postgres:15-alpine
@@ -32,7 +32,7 @@
 # ubuntu/squid:latest
 
 #postgres
-postgres:16
+# postgres:16
 
 #postgres
-langflowai/langflow:latest
+# langflowai/langflow:latest
