@@ -1,8 +1,8 @@
 #dify-web的指定版本
- langgenius/dify-web:0.15.3
+# langgenius/dify-web:0.15.3
 
 #dify-api的指定版本
- langgenius/dify-api:0.15.3
+# langgenius/dify-api:0.15.3
 
 #postgres
 # postgres:15-alpine
@@ -14,7 +14,7 @@
 # langgenius/dify-sandbox:0.2.10
 
 #nginx
-# nginx:1.27.3
+ nginx:latest
 
 #weaviate
 # semitechnologies/weaviate:1.19.0
