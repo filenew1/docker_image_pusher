@@ -8,13 +8,13 @@
 # postgres:15-alpine
 
 #redis
- redis:7.0.4
+# redis:7.0.4
 
 #sandbox
 # langgenius/dify-sandbox:0.2.10
 
 #nginx
- nginx:latest
+# nginx:latest
 
 #weaviate
 # semitechnologies/weaviate:1.19.0
@@ -41,4 +41,7 @@
 # mysql:8.0
 
 #office
-onlyoffice/documentserver:7.1.1
+# onlyoffice/documentserver:7.1.1
+
+#plugin-daemon
+langgenius/dify-plugin-daemon:0.0.1-local
