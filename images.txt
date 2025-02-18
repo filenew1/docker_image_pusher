@@ -44,4 +44,7 @@
 # onlyoffice/documentserver:7.1.1
 
 #plugin-daemon
-langgenius/dify-plugin-daemon:0.0.1-local
+# langgenius/dify-plugin-daemon:0.0.1-local
+
+#ragflow
+  infiniflow/ragflow:v0.16.0
