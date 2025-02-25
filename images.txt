@@ -56,4 +56,4 @@
 # valkey/valkey:8
 
 #neo4j
-neo4j:5.26.2-community-ubi9
+neo4j:5.26.2-community
