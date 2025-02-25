@@ -23,7 +23,7 @@ semitechnologies/weaviate:1.19.0
 langgenius/qdrant:v1.7.3
 
 #elasticsearch
-# docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 
 #unstructured-api
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
