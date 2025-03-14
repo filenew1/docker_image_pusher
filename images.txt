@@ -1,8 +1,8 @@
 #dify-web的指定版本
-langgenius/dify-web:1.0.1
+#langgenius/dify-web:1.0.1
 
 #dify-api的指定版本
-langgenius/dify-api:1.0.1
+#langgenius/dify-api:1.0.1
 
 #postgres
 #postgres:15-alpine
@@ -51,6 +51,9 @@ langgenius/dify-api:1.0.1
 
 #valkey
 #valkey/valkey:8
+
+#easy-dataset
+conardli17/easy-dataset:latest
 
 #neo4j
 #neo4j:5.26.2-community
