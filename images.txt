@@ -1,8 +1,8 @@
 #dify-web的指定版本
-langgenius/dify-web:1.1.1
+#langgenius/dify-web:1.1.1
 
 #dify-api的指定版本
-langgenius/dify-api:1.1.1
+#langgenius/dify-api:1.1.1
 
 #postgres
 #postgres:15-alpine
@@ -41,7 +41,7 @@ langgenius/dify-api:1.1.1
 #onlyoffice/documentserver:7.1.1
 
 #plugin-daemon
-#langgenius/dify-plugin-daemon:0.0.2-local
+langgenius/dify-plugin-daemon:0.0.6-local
 
 #ragflow
 #infiniflow/ragflow:v0.16.0
