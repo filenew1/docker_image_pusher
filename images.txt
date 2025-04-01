@@ -1,8 +1,8 @@
 #dify-web的指定版本
-#langgenius/dify-web:1.1.2
+langgenius/dify-web:1.1.2
 
 #dify-api的指定版本
-#langgenius/dify-api:1.1.2
+langgenius/dify-api:1.1.2
 
 #postgres
 #postgres:15-alpine
@@ -11,7 +11,7 @@
 #redis:7.0.4
 
 #sandbox
-langgenius/dify-sandbox:0.2.11
+#langgenius/dify-sandbox:0.2.11
 
 #nginx
 nginx:latest
