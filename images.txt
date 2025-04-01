@@ -14,7 +14,7 @@
 langgenius/dify-sandbox:0.2.11
 
 #nginx
-#nginx:latest
+nginx:latest
 
 #weaviate
 #semitechnologies/weaviate:1.19.0
@@ -29,7 +29,7 @@ langgenius/dify-sandbox:0.2.11
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 #squid
-#ubuntu/squid:latest
+ubuntu/squid:latest
 
 #postgres
 #postgres:16
