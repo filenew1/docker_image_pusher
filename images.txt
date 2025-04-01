@@ -11,7 +11,7 @@
 #redis:7.0.4
 
 #sandbox
-#langgenius/dify-sandbox:0.2.10
+langgenius/dify-sandbox:0.2.11
 
 #nginx
 #nginx:latest
@@ -53,7 +53,7 @@
 #valkey/valkey:8
 
 #easy-dataset
-conardli17/easy-dataset:latest
+#conardli17/easy-dataset:latest
 
 #neo4j
 #neo4j:5.26.2-community
