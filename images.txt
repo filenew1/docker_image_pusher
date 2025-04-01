@@ -1,8 +1,8 @@
 #dify-web的指定版本
-langgenius/dify-web:1.1.2
+langgenius/dify-web:1.1.0
 
 #dify-api的指定版本
-langgenius/dify-api:1.1.2
+langgenius/dify-api:1.1.0
 
 #postgres
 #postgres:15-alpine
