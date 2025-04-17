@@ -1,8 +1,8 @@
 #dify-web的指定版本
-langgenius/dify-web:1.2.0
+#langgenius/dify-web:1.2.0
 
 #dify-api的指定版本
-langgenius/dify-api:1.2.0
+#langgenius/dify-api:1.2.0
 
 #postgres
 #postgres:15-alpine
@@ -29,7 +29,7 @@ nginx:latest
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 #squid
-ubuntu/squid:latest
+#ubuntu/squid:latest
 
 #postgres
 #postgres:16
@@ -60,3 +60,6 @@ ubuntu/squid:latest
 
 #n8n
 #n8nio/n8n:1.89.2
+
+#traefik
+traefik
