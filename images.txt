@@ -1,8 +1,8 @@
 #dify-web的指定版本
-langgenius/dify-web:1.1.0
+#langgenius/dify-web:1.1.0
 
 #dify-api的指定版本
-langgenius/dify-api:1.1.0
+#langgenius/dify-api:1.1.0
 
 #postgres
 #postgres:15-alpine
@@ -57,3 +57,6 @@ ubuntu/squid:latest
 
 #neo4j
 #neo4j:5.26.2-community
+
+#n8n
+n8nio/n8n:1.89.2
