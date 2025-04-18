@@ -58,8 +58,5 @@ nginx:latest
 #neo4j
 #neo4j:5.26.2-community
 
-#n8n
-#n8nio/n8n:1.89.2
-
-#traefik
-traefik
+#kong
+docker pull kong/kong-gateway:3.10.0.1
