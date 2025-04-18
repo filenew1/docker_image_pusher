@@ -1,8 +1,8 @@
 #dify-web的指定版本
-langgenius/dify-web:0.15.5
+#langgenius/dify-web:0.15.5
 
 #dify-api的指定版本
-langgenius/dify-api:0.15.5
+#langgenius/dify-api:0.15.5
 
 #postgres
 #postgres:15-alpine
@@ -56,7 +56,7 @@ nginx:latest
 #conardli17/easy-dataset:latest
 
 #neo4j
-#neo4j:5.26.2-community
+neo4j:5.26.5-community
 
 #kong
 #kong/kong-gateway:3.10.0.1
