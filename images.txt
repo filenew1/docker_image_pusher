@@ -11,7 +11,7 @@
 #redis:7.0.4
 
 #sandbox
-langgenius/dify-sandbox:0.2.12
+#langgenius/dify-sandbox:0.2.12
 
 #nginx
 nginx:latest
@@ -41,7 +41,7 @@ nginx:latest
 #onlyoffice/documentserver:7.1.1
 
 #plugin-daemon
-#langgenius/dify-plugin-daemon:0.0.6-local
+#langgenius/dify-plugin-daemon:0.0.10-local
 
 #ragflow
 #infiniflow/ragflow:v0.16.0
