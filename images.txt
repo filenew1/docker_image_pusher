@@ -26,5 +26,6 @@
 # bitnami/kafka:latest
 
 #n8n
-docker pull n8nio/n8n:latest
+n8nio/n8n:latest
+n8nio/n8n:1.97.1
 
