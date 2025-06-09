@@ -23,4 +23,8 @@
 # ghcr.io/labring/fastgpt-mcp_server:v4.9.10-fix2
 
 #KafKa
-bitnami/kafka:latest
+# bitnami/kafka:latest
+
+#n8n
+docker pull n8nio/n8n:latest
+
