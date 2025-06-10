@@ -17,15 +17,15 @@
 # redis:7.2-alpine
 # ghcr.io/labring/fastgpt-sandbox:v4.9.10-fix2
 # ghcr.io/labring/fastgpt-mcp_server:v4.9.10-fix2
-# ghcr.io/labring/fastgpt:v4.9.10-fix2
+ghcr.io/labring/fastgpt:v4.9.11
+ghcr.io/labring/fastgpt-sandbox:v4.9.11
 # ghcr.io/labring/aiproxy:v0.1.7
 # pgvector/pgvector:0.8.0-pg15
-# ghcr.io/labring/fastgpt-mcp_server:v4.9.10-fix2
 
 #KafKa
 # bitnami/kafka:latest
 
 #n8n
-n8nio/n8n:latest
-n8nio/n8n:1.97.1
+# n8nio/n8n:latest
+# n8nio/n8n:1.97.1
 
