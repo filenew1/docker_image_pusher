@@ -1,3 +1,15 @@
+#FastGPT
+# minio/minio:RELEASE.2023-03-20T20-16-18Z
+# quay.io/coreos/etcd:v3.5.5
+# milvusdb/milvus:v2.4.3
+# registry.cn-hangzhou.aliyuncs.com/fastgpt/mongo:5.0.18
+# redis:7.2-alpine
+ghcr.io/labring/fastgpt-sandbox:v4.10.1-fix3
+ghcr.io/labring/fastgpt-mcp_server:v4.10.1-fix3
+ghcr.io/labring/fastgpt:v4.10.1-fix3
+# ghcr.io/labring/aiproxy:v0.1.7
+# pgvector/pgvector:0.8.0-pg15
+
 #文擎毕昇
 # mysql:8.0
 # redis:7.0.4
@@ -9,18 +21,6 @@
 # milvusdb/milvus:v2.3.3
 # quay.io/coreos/etcd:v3.5.5
 
-#FastGPT
-# minio/minio:RELEASE.2023-03-20T20-16-18Z
-# quay.io/coreos/etcd:v3.5.5
-# milvusdb/milvus:v2.4.3
-# registry.cn-hangzhou.aliyuncs.com/fastgpt/mongo:5.0.18
-# redis:7.2-alpine
-ghcr.io/labring/fastgpt-sandbox:v4.10.1
-ghcr.io/labring/fastgpt-mcp_server:v4.10.1
-ghcr.io/labring/fastgpt:v4.10.1
-# ghcr.io/labring/aiproxy:v0.1.7
-# pgvector/pgvector:0.8.0-pg15
-
 #KafKa
 # bitnami/kafka:4.0.0
 
@@ -28,3 +28,5 @@ ghcr.io/labring/fastgpt:v4.10.1
 # n8nio/n8n:latest
 # n8nio/n8n:1.100.1
 
+#xxl-mq
+xuxueli/xxl-mq-admin:1.4.1
