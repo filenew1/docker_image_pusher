@@ -10,7 +10,7 @@
 # ghcr.io/labring/aiproxy:v0.2.2
 
 #one-api
-justsong/one-api:v0.6.10
+ghcr.io/songquanpeng/one-api:v0.6.10
 
 #n8n
 # n8nio/n8n:latest
