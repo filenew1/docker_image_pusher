@@ -1,32 +1,18 @@
 #FastGPT
-pgvector/pgvector:0.8.0-pg15
-mongo:5.0.18
-redis:7.2-alpine
-minio/minio:latest
-ghcr.io/labring/fastgpt:v4.11.0
-ghcr.io/labring/fastgpt-sandbox:v4.11.0
-ghcr.io/labring/fastgpt-mcp_server:v4.11.0
-ghcr.io/labring/fastgpt-plugin:v0.1.5
-ghcr.io/labring/aiproxy:v0.2.2
+# pgvector/pgvector:0.8.0-pg15
+# mongo:5.0.18
+# redis:7.2-alpine
+# minio/minio:latest
+# ghcr.io/labring/fastgpt:v4.11.0
+# ghcr.io/labring/fastgpt-sandbox:v4.11.0
+# ghcr.io/labring/fastgpt-mcp_server:v4.11.0
+# ghcr.io/labring/fastgpt-plugin:v0.1.5
+# ghcr.io/labring/aiproxy:v0.2.2
 
-
-#文擎毕昇
-# mysql:8.0
-# redis:7.0.4
-# onlyoffice/documentserver:7.1.1
-# dataelement/bisheng-backend:v1.2.0
-# dataelement/bisheng-frontend:v1.2.0
-# docker.io/bitnami/elasticsearch:8.12.0
-# minio/minio:RELEASE.2023-03-20T20-16-18Z
-# milvusdb/milvus:v2.3.3
-# quay.io/coreos/etcd:v3.5.5
-
-#KafKa
-# bitnami/kafka:4.0.0
+#one-api
+justsong/one-api:v0.6.10
 
 #n8n
 # n8nio/n8n:latest
 # n8nio/n8n:1.100.1
 
-#xxl-mq
-# xuxueli/xxl-mq-admin:1.4.1
