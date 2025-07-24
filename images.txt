@@ -9,8 +9,8 @@
 # ghcr.io/labring/fastgpt-plugin:v0.1.5
 # ghcr.io/labring/aiproxy:v0.2.2
 
-#one-api
-ghcr.io/songquanpeng/one-api:v0.6.10
+#临时
+ghcr.io/conardli/easy-dataset
 
 #n8n
 # n8nio/n8n:latest
