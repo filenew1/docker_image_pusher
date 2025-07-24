@@ -1,3 +1,14 @@
+#Dify
+langgenius/dify-api:1.7.0
+langgenius/dify-web:1.7.0
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.2.0-local
+ubuntu/squid:latest
+nginx:latest
+semitechnologies/weaviate:1.19.0
+
 #FastGPT
 # pgvector/pgvector:0.8.0-pg15
 # mongo:5.0.18
@@ -10,7 +21,7 @@
 # ghcr.io/labring/aiproxy:v0.2.2
 
 #临时
-ghcr.io/conardli/easy-dataset
+# ghcr.io/conardli/easy-dataset
 
 #n8n
 # n8nio/n8n:latest
