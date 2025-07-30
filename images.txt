@@ -21,7 +21,7 @@
 # ghcr.io/labring/aiproxy:v0.2.2
 
 #临时
-alexsuntop/mineru-sglang:2.1.7
+docker.elastic.co/elasticsearch/elasticsearch:9.0.2
 
 #n8n
 # n8nio/n8n:latest
