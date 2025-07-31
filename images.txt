@@ -1,5 +1,7 @@
 #one-api
 # justsong/one-api:v0.6.11-preview.7
+redis:8.0.3
+# mysql:8.2.0
 
 #FastGPT
 # pgvector/pgvector:0.8.0-pg15
@@ -13,7 +15,7 @@
 # ghcr.io/labring/aiproxy:v0.2.2
 
 #临时
-mysql:8.2.0
+# mysql:8.2.0
 
 #n8n
 # n8nio/n8n:latest
