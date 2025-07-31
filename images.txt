@@ -1,13 +1,5 @@
 #Dify
-# langgenius/dify-api:1.7.0
-# langgenius/dify-web:1.7.0
-# postgres:15-alpine
-# redis:6-alpine
-# langgenius/dify-sandbox:0.2.12
-# langgenius/dify-plugin-daemon:0.2.0-local
-# ubuntu/squid:latest
-# nginx:latest
-# semitechnologies/weaviate:1.19.0
+justsong/one-api:v0.6.11-preview.7
 
 #FastGPT
 # pgvector/pgvector:0.8.0-pg15
@@ -21,7 +13,7 @@
 # ghcr.io/labring/aiproxy:v0.2.2
 
 #临时
-docker.elastic.co/elasticsearch/elasticsearch:9.0.2
+# docker.elastic.co/elasticsearch/elasticsearch:9.0.2
 
 #n8n
 # n8nio/n8n:latest
