@@ -23,7 +23,6 @@
 #临时
 # mysql:8.2.0
 
-#n8n
+#mineru
 alexsuntop/mineru-sglang:2.1.9
-alexsuntop/mineru-sglang:2.1.8
 
