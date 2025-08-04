@@ -14,15 +14,22 @@
 # mongo:5.0.18
 # redis:7.2-alpine
 # minio/minio:latest
-ghcr.io/labring/fastgpt:v4.11.1
-ghcr.io/labring/fastgpt-sandbox:v4.11.1
-ghcr.io/labring/fastgpt-mcp_server:v4.11.1
+# ghcr.io/labring/fastgpt:v4.11.1
+# ghcr.io/labring/fastgpt-sandbox:v4.11.1
+# ghcr.io/labring/fastgpt-mcp_server:v4.11.1
 # ghcr.io/labring/fastgpt-plugin:v0.1.5
 # ghcr.io/labring/aiproxy:v0.2.2
 
 #临时
-# mysql:8.2.0
+
 
 #mineru
-alexsuntop/mineru-sglang:2.1.10
+# alexsuntop/mineru-sglang:2.1.10
 
+#RagFlow
+elasticsearch:8.11.3
+hub.icert.top/opensearchproject/opensearch:2.19.1
+infiniflow/infinity:v0.6.0-dev5
+mysql:8.0.39
+quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
+valkey/valkey:8
