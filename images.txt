@@ -16,6 +16,6 @@
 # alexsuntop/mineru-sglang:2.1.10
 
 #one-api
-justsong/one-api:v0.6.10 --platform linux/arm64
-redis:8.2.0 --platform linux/arm64
-mysql:8.2.0 --platform linux/arm64
+arm64/justsong/one-api:v0.6.10
+arm64v8/redis:8.2.0
+arm64v8/mysql:8.2.0
