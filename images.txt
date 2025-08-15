@@ -13,9 +13,14 @@
 # ollama/ollama:0.11.4
 
 #mineru
-# alexsuntop/mineru-sglang:2.1.10
+mineru-sglang:2.1.11
 
-#one-api
---platform=linux/arm64 justsong/one-api:v0.6.10
---platform=linux/arm64 redis:8.2.0
---platform=linux/arm64 mysql:8.2.0
+#one-api 
+##########   ARM 架构   ##########
+# --platform=linux/arm64 justsong/one-api:v0.6.10
+# --platform=linux/arm64 redis:8.2.0
+# --platform=linux/arm64 mysql:8.2.0
+
+# justsong/one-api:v0.6.10
+# redis:8.2.0
+# mysql:8.2.0
