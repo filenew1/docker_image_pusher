@@ -13,8 +13,7 @@
 # ollama/ollama:0.11.4
 
 #mineru
-# alexsuntop/mineru-sglang:2.1.11
-mineru-sglang:2.1.11
+alexsuntop/mineru-sglang:2.1.11
 
 #one-api 
 ##########   ARM 架构   ##########
