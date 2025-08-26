@@ -10,10 +10,12 @@
 # ghcr.io/labring/aiproxy:v0.2.2
 
 #临时
-# ollama/ollama:0.11.4
+--platform=linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:9.0.2
+--platform=linux/arm64 mysql:8.0.29
+--platform=linux/arm64 minio/minio:RELEASE.2025-05-24T17-08-30Z
 
 #mineru
-alexsuntop/mineru-sglang:2.1.11
+# alexsuntop/mineru-sglang:2.1.11
 
 #one-api 
 ##########   ARM 架构   ##########
