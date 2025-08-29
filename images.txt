@@ -4,10 +4,10 @@
 # --platform=linux/arm64 redis:7.2-alpine
 # --platform=linux/arm64 minio/minio:latest
 --platform=linux/arm64 ghcr.io/labring/fastgpt:v4.12.2-fix
---platform=linux/arm64 ghcr.io/labring/fastgpt-sandbox:v4.12.2
---platform=linux/arm64 ghcr.io/labring/fastgpt-mcp_server:v4.12.2
-# --platform=linux/arm64 ghcr.io/labring/fastgpt-plugin:v0.1.11
-# --platform=linux/arm64 ghcr.io/labring/aiproxy:v0.2.2
+--platform=linux/arm64 ghcr.io/labring/fastgpt-sandbox:latest
+--platform=linux/arm64 ghcr.io/labring/fastgpt-mcp_server:latest
+--platform=linux/arm64 ghcr.io/labring/fastgpt-plugin:latest
+--platform=linux/arm64 ghcr.io/labring/aiproxy:latest
 
 #临时
 # --platform=linux/arm64 openjdk:8-jdk-slim
