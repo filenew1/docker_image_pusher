@@ -3,9 +3,9 @@
 # --platform=linux/arm64 mongo:5.0.18
 # --platform=linux/arm64 redis:7.2-alpine
 # --platform=linux/arm64 minio/minio:latest
-# --platform=linux/arm64 ghcr.io/labring/fastgpt:v4.12.0
-# --platform=linux/arm64 ghcr.io/labring/fastgpt-sandbox:v4.12.0
-# --platform=linux/arm64 ghcr.io/labring/fastgpt-mcp_server:v4.12.0
+--platform=linux/arm64 ghcr.io/labring/fastgpt:v4.12.2
+--platform=linux/arm64 ghcr.io/labring/fastgpt-sandbox:v4.12.2
+--platform=linux/arm64 ghcr.io/labring/fastgpt-mcp_server:v4.12.2
 # --platform=linux/arm64 ghcr.io/labring/fastgpt-plugin:v0.1.9
 # --platform=linux/arm64 ghcr.io/labring/aiproxy:v0.2.2
 
@@ -26,4 +26,3 @@
 # redis:8.2.0
 # mysql:8.2.0
 
- --platform=linux/arm64 nginx:1.29.1
