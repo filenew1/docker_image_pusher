@@ -19,9 +19,11 @@
 #one-api 
 ##########   ARM 架构   ##########
 # --platform=linux/arm64 justsong/one-api:v0.6.10
---platform=linux/arm64 redis:8.0.3
+# --platform=linux/arm64 redis:8.0.3
 # --platform=linux/arm64 mysql:8.2.0
 
 # justsong/one-api:v0.6.10
 # redis:8.2.0
 # mysql:8.2.0
+
+ --platform=linux/arm64 nginx:1.29.1
