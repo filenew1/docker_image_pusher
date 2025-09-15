@@ -5,12 +5,12 @@
 # --platform=linux/arm64 pgvector/pgvector:0.8.0-pg15
 # --platform=linux/arm64 mongo:5.0.18
 # --platform=linux/arm64 redis:7.2-alpine
---platform=linux/arm64 minio/minio:latest
---platform=linux/arm64 ghcr.io/labring/fastgpt:latest
---platform=linux/arm64 ghcr.io/labring/fastgpt-sandbox:latest
---platform=linux/arm64 ghcr.io/labring/fastgpt-mcp_server:latest
---platform=linux/arm64 ghcr.io/labring/fastgpt-plugin:latest
---platform=linux/arm64 ghcr.io/labring/aiproxy:latest
+# --platform=linux/arm64 minio/minio:latest
+# --platform=linux/arm64 ghcr.io/labring/fastgpt:latest
+# --platform=linux/arm64 ghcr.io/labring/fastgpt-sandbox:latest
+# --platform=linux/arm64 ghcr.io/labring/fastgpt-mcp_server:latest
+# --platform=linux/arm64 ghcr.io/labring/fastgpt-plugin:latest
+--platform=linux/arm64 ghcr.io/labring/aiproxy:v0.2.2
 
 #临时
 # crpi-u16o47qf6y5a1bqg.cn-shenzhen.personal.cr.aliyuncs.com/zanzan-images/fastgpt:v4.12.3
