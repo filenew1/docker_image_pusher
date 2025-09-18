@@ -12,12 +12,9 @@
 # --platform=linux/arm64 ghcr.io/labring/fastgpt-plugin:latest
 # --platform=linux/arm64 ghcr.io/labring/aiproxy:v0.2.2
 
-
-
-
 #Kong
-# kong:3.9.1
---platform=linux/arm64 kong:3.9.1
+# --platform=linux/arm64 kong:3.9.1
+--platform=linux/arm64 postgres:9.4.26
 
 #one-api 
 ##########   ARM 架构   ##########
