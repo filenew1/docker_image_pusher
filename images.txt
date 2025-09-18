@@ -14,7 +14,7 @@
 
 #Kong
 # --platform=linux/arm64 kong:3.9.1
---platform=linux/arm64/v8 postgres:14.19
+--platform=linux/arm64 postgres:14.19
 
 
 #one-api 
