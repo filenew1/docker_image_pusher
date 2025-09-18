@@ -12,20 +12,16 @@
 # --platform=linux/arm64 ghcr.io/labring/fastgpt-plugin:latest
 # --platform=linux/arm64 ghcr.io/labring/aiproxy:v0.2.2
 
-#临时
-kong:3.9.1
 
 
-#mineru
-# alexsuntop/mineru-sglang:2.1.11
+
+#Kong
+# kong:3.9.1
+--platform=linux/arm64 kong:3.9.1
 
 #one-api 
 ##########   ARM 架构   ##########
 # --platform=linux/arm64 justsong/one-api:v0.6.10
 # --platform=linux/arm64 redis:8.0.3
 # --platform=linux/arm64 mysql:8.2.0
-
-# justsong/one-api:v0.6.10
-# redis:8.2.0
-# mysql:8.2.0
 
