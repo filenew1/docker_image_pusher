@@ -20,10 +20,9 @@
 #bisheng
 # mysql:8.0
 # redis:7.0.4
-onlyoffice/documentserver:7.1.1
-dataelement/bisheng-backend:v2.0.3
-dataelement/bisheng-backend:v2.0.3
-dataelement/bisheng-frontend:v2.0.3
+# onlyoffice/documentserver:7.1.1
+# dataelement/bisheng-backend:v2.0.3
+# dataelement/bisheng-frontend:v2.0.3
 # docker.io/bitnami/elasticsearch:8.12.0
 # quay.io/coreos/etcd:v3.5.5
 # minio/minio:RELEASE.2023-03-20T20-16-18Z
