@@ -13,8 +13,8 @@
 # --platform=linux/arm64 ghcr.io/labring/aiproxy:v0.2.2
 
 #Kong
-docker.io/searxng/searxng:latest
-itzcrazykns1337/perplexica:main
+qdrant/qdrant:v1.15
+--platform=linux/arm64 qdrant/qdrant:v1.15
 
 
 #bisheng
