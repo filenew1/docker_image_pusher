@@ -1,20 +1,16 @@
 #FastGPT
-# --platform=linux/arm64 minio/minio:RELEASE.2023-03-20T20-16-18Z
+--platform=linux/arm64 minio/minio:RELEASE.2025-09-07T16-13-09Z
 # --platform=linux/arm64 quay.io/coreos/etcd:v3.5.5
 # --platform=linux/arm64 milvusdb/milvus:v2.4.3
 # --platform=linux/arm64 pgvector/pgvector:0.8.0-pg15
 # --platform=linux/arm64 mongo:5.0.18
 # --platform=linux/arm64 redis:7.2-alpine
 # --platform=linux/arm64 minio/minio:latest
-# --platform=linux/arm64 ghcr.io/labring/fastgpt:latest
-# --platform=linux/arm64 ghcr.io/labring/fastgpt-sandbox:latest
-# --platform=linux/arm64 ghcr.io/labring/fastgpt-mcp_server:latest
-# --platform=linux/arm64 ghcr.io/labring/fastgpt-plugin:latest
-# --platform=linux/arm64 ghcr.io/labring/aiproxy:v0.2.2
-
-#Kong
-searxng/searxng:2025.9.29-ebc61debf
---platform=linux/arm64 searxng/searxng:2025.9.29-ebc61debf
+--platform=linux/arm64 ghcr.io/labring/fastgpt:v4.13.2
+--platform=linux/arm64 ghcr.io/labring/fastgpt-sandbox:v4.13.2
+--platform=linux/arm64 ghcr.io/labring/fastgpt-mcp_server:v4.13.2
+--platform=linux/arm64 ghcr.io/labring/fastgpt-plugin:v0.2.4
+--platform=linux/arm64 ghcr.io/labring/aiproxy:v0.3.2
 
 #bisheng
 # mysql:8.0
