@@ -6,10 +6,10 @@
 # --platform=linux/arm64 mongo:5.0.18
 # --platform=linux/arm64 redis:7.2-alpine
 # --platform=linux/arm64 minio/minio:latest
---platform=linux/arm64 ghcr.io/labring/fastgpt:v4.14.3
---platform=linux/arm64 ghcr.io/labring/fastgpt-sandbox:v4.14.3
---platform=linux/arm64 ghcr.io/labring/fastgpt-mcp_server:v4.14.3
---platform=linux/arm64 ghcr.io/labring/fastgpt-plugin:v0.3.2
+ghcr.io/labring/fastgpt:v4.14.3
+ghcr.io/labring/fastgpt-sandbox:v4.14.3
+ghcr.io/labring/fastgpt-mcp_server:v4.14.3
+ghcr.io/labring/fastgpt-plugin:v0.3.2
 # ghcr.io/labring/aiproxy:v0.3.2
 
 #bisheng
@@ -26,4 +26,4 @@
 # crpi-u16o47qf6y5a1bqg.cn-shenzhen.personal.cr.aliyuncs.com/zanzan-images/fastgpt:fastgpt-v4.13.2-arm
 
 #flowise
---platform=linux/arm64 flowiseai/flowise:3.0.11
+flowiseai/flowise:3.0.11
