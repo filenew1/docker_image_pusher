@@ -28,5 +28,4 @@
 
 
 
---platform=linux/arm64 mongo:latest
---platform=linux/arm64 redis
+--platform=linux/arm64 openclaw/openclaw:latest
