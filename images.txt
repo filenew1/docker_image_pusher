@@ -28,4 +28,6 @@
 
 
 
---platform=linux/arm64 openclaw/openclaw:latest
+# --platform=linux/arm64 openclaw/openclaw:latest
+
+agentscope/copaw:v0.0.7
