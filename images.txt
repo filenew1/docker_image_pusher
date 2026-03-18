@@ -12,22 +12,5 @@
 # --platform=linux/arm64 ghcr.io/labring/fastgpt-plugin:v0.4.0
 # --platform=linux/arm64 ghcr.io/labring/aiproxy:v0.3.2
 
-# x86
-# --platform=linux/arm64 minio/minio:RELEASE.2025-09-07T16-13-09Z
-# --platform=linux/arm64 quay.io/coreos/etcd:v3.5.5
-# --platform=linux/arm64 milvusdb/milvus:v2.4.3
-# --platform=linux/arm64 pgvector/pgvector:0.8.0-pg15
-# mongo:5.0.32
-# --platform=linux/arm64 redis:7.2-alpine
-# --platform=linux/arm64 minio/minio:latest
-# ghcr.io/labring/fastgpt:v4.14.5.1
-# ghcr.io/labring/fastgpt-sandbox:v4.14.5.1
-# ghcr.io/labring/fastgpt-mcp_server:v4.14.5.1
-# ghcr.io/labring/fastgpt-plugin:v0.4.0
-# --platform=linux/arm64 ghcr.io/labring/aiproxy:v0.3.2
 
-
-
-# --platform=linux/arm64 openclaw/openclaw:latest
-
-agentscope/copaw:v0.0.7
+agentscope/copaw:v0.1.0-beta.2
