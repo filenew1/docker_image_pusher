@@ -13,5 +13,7 @@
 # --platform=linux/arm64 ghcr.io/labring/aiproxy:v0.3.2
 
 
-agentscope/copaw:v0.1.0
-agentscope/copaw:latest
+# agentscope/copaw:v0.1.0
+
+apache/hop:2.17.0
+--platform=linux/arm64 apache/hop:2.17.0
