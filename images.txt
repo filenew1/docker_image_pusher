@@ -15,5 +15,4 @@
 
 # agentscope/copaw:v0.1.0
 
-apache/hop:2.17.0
---platform=linux/arm64 apache/hop:2.17.0
+ghcr.io/conardli/easy-dataset:1.7.2
