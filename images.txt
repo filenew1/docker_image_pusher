@@ -16,6 +16,5 @@
 # agentscope/copaw:v0.2.0
 # hub.zentao.net/app/zentao:22.0
 
-redis:8.0.3
-mariadb:12.2.2
+kanboard/kanboard:v1.2.51
 
