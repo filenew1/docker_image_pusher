@@ -13,5 +13,6 @@
 # --platform=linux/arm64 ghcr.io/labring/aiproxy:v0.3.2
 
 
-agentscope/copaw:v0.2.0
+# agentscope/copaw:v0.2.0
+hub.zentao.net/app/zentao:22.0
 
