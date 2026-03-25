@@ -14,5 +14,8 @@
 
 
 # agentscope/copaw:v0.2.0
-hub.zentao.net/app/zentao:22.0
+# hub.zentao.net/app/zentao:22.0
+
+bitnami/redis:6.2
+bitnami/mariadb:10.6
 
