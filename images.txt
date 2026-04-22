@@ -13,6 +13,6 @@
 # --platform=linux/arm64 ghcr.io/labring/aiproxy:v0.3.2
 
 
-agentscope/qwenpaw:v1.1.2
+agentscope/qwenpaw:v1.1.3
 
 
