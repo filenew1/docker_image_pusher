@@ -13,4 +13,5 @@
 # --platform=linux/arm64 ghcr.io/labring/aiproxy:v0.3.2
 
 
-apache/seatunnel:3.0.0
+# apache/seatunnel:3.0.0
+mysql:9.7.2
