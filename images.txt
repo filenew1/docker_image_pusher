@@ -14,4 +14,4 @@
 
 
 # apache/seatunnel:3.0.0
-ghcr.io/open-webui/open-webui:v0.13.4
+--platform=linux/arm64 calciumion/new-api:latest
